@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imgUniformPhoto"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:adjustViewBounds="true"
+        android:layout_gravity="center"
+        android:paddingTop="10dp" />
+
+    <TextView
+        android:id="@+id/lblUniformName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingTop="10dp" />
+
+    <TextView
+        android:id="@+id/lblUniformDay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingTop="5dp" />
+    />
+
+</LinearLayout>

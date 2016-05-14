@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Uniform</string>
+
+    <string name="activity_form_uniform">Uniform Form</string>
+    <string name="activity_main">My Uniform</string>
+    <string name="activity_splash">My Uniform</string>
+    <string name="activity_splash_version">Version</string>
+    <string name="dialog_delete_message">You are sure to remove it?</string>
+    <string name="dialog_delete_title">Delete Uniform</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">Ok</string>
+    <string name="lbl_uniform_day">Day</string>
+    <string name="lbl_uniform_name">Name</string>
+    <string name="menu_about">About...</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_ctx_delete">Delete</string>
+    <string name="menu_ctx_update">Update</string>
+
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuCtxUpdate" android:title="@string/menu_ctx_update"></item>
+    <item android:id="@+id/menuCtxDelete" android:title="@string/menu_ctx_delete"></item>
+</menu>
